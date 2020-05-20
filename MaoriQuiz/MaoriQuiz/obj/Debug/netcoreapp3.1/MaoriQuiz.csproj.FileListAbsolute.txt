@@ -1,0 +1,13 @@
+C:\Users\qdr\source\repos\MaoriQuiz\MaoriQuiz\bin\Debug\netcoreapp3.1\MaoriQuiz.exe
+C:\Users\qdr\source\repos\MaoriQuiz\MaoriQuiz\bin\Debug\netcoreapp3.1\MaoriQuiz.deps.json
+C:\Users\qdr\source\repos\MaoriQuiz\MaoriQuiz\bin\Debug\netcoreapp3.1\MaoriQuiz.runtimeconfig.json
+C:\Users\qdr\source\repos\MaoriQuiz\MaoriQuiz\bin\Debug\netcoreapp3.1\MaoriQuiz.runtimeconfig.dev.json
+C:\Users\qdr\source\repos\MaoriQuiz\MaoriQuiz\bin\Debug\netcoreapp3.1\MaoriQuiz.dll
+C:\Users\qdr\source\repos\MaoriQuiz\MaoriQuiz\bin\Debug\netcoreapp3.1\MaoriQuiz.pdb
+C:\Users\qdr\source\repos\MaoriQuiz\MaoriQuiz\obj\Debug\netcoreapp3.1\MaoriQuiz.csprojAssemblyReference.cache
+C:\Users\qdr\source\repos\MaoriQuiz\MaoriQuiz\obj\Debug\netcoreapp3.1\MaoriQuiz.csproj.CoreCompileInputs.cache
+C:\Users\qdr\source\repos\MaoriQuiz\MaoriQuiz\obj\Debug\netcoreapp3.1\MaoriQuiz.AssemblyInfoInputs.cache
+C:\Users\qdr\source\repos\MaoriQuiz\MaoriQuiz\obj\Debug\netcoreapp3.1\MaoriQuiz.AssemblyInfo.cs
+C:\Users\qdr\source\repos\MaoriQuiz\MaoriQuiz\obj\Debug\netcoreapp3.1\MaoriQuiz.dll
+C:\Users\qdr\source\repos\MaoriQuiz\MaoriQuiz\obj\Debug\netcoreapp3.1\MaoriQuiz.pdb
+C:\Users\qdr\source\repos\MaoriQuiz\MaoriQuiz\obj\Debug\netcoreapp3.1\MaoriQuiz.genruntimeconfig.cache
